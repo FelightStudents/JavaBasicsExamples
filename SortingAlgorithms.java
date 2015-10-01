@@ -4,4 +4,9 @@ class SortingAlgorithm {
 		
 	}
 	
+	
+	public void feature2(){
+		
+	}
+	
 }
